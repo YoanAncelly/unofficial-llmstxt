@@ -1,0 +1,102 @@
+# https://docs.n8n.io/ llms.txt
+
+- [n8n Documentation](https://docs.n8n.io/): Comprehensive documentation for n8n workflow automation tool.
+- [Coding in n8n](https://docs.n8n.io/code/): Explore coding capabilities and resources in n8n workflows.
+- [n8n Credentials Guide](https://docs.n8n.io/credentials/): Learn to manage and share credentials in n8n.
+- [Self-hosting n8n](https://docs.n8n.io/hosting/): Guidance for self-hosting n8n with installation and configuration tips.
+- [n8n Integrations Overview](https://docs.n8n.io/integrations/): Explore n8n integrations for building complex workflows easily.
+- [n8n Embed Overview](https://docs.n8n.io/embed/): White label n8n for commercial software integration and support.
+- [n8n Workflows Guide](https://docs.n8n.io/workflows/): Learn to create and manage workflows in n8n.
+- [n8n Glossary](https://docs.n8n.io/glossary/): Comprehensive glossary of n8n terms and concepts explained.
+- [n8n REST API Guide](https://docs.n8n.io/api/): Explore n8n's public REST API for automation tasks.
+- [Data Processing in n8n](https://docs.n8n.io/data/): Learn about data processing and transformation in n8n workflows.
+- [No-Code Automation Courses](https://docs.n8n.io/courses/): Learn to automate tasks with no-code courses offered here.
+- [Create n8n Workflows](https://docs.n8n.io/workflows/create/): Learn to create and manage workflows in n8n easily.
+- [AI Workflows in n8n](https://docs.n8n.io/advanced-ai/): Learn to build AI workflows using n8n tools.
+- [n8n Flow Logic](https://docs.n8n.io/flow-logic/): Learn to implement complex logic in n8n workflows effectively.
+- [API Pagination Guide](https://docs.n8n.io/api/pagination/): Learn how to paginate API responses effectively in n8n.
+- [Workflow Settings](https://docs.n8n.io/workflows/settings/): Customize individual workflow behavior and settings in n8n.
+- [External Secrets Management](https://docs.n8n.io/external-secrets/): Manage external secrets securely for n8n environments.
+- [n8n Deployment Guide](https://docs.n8n.io/embed/deployment/): Guidelines for deploying n8n with user data management.
+- [n8n API Authentication](https://docs.n8n.io/api/authentication/): Learn how to authenticate API calls using n8n keys.
+- [n8n Workflow Executions](https://docs.n8n.io/workflows/executions/): Overview of n8n workflow executions and modes.
+- [n8n Video Courses](https://docs.n8n.io/video-courses/): Explore n8n's video courses for beginners and advanced users.
+- [Workflow History Management](https://docs.n8n.io/workflows/history/): Explore and manage your workflow history effectively.
+- [n8n Privacy & Security](https://docs.n8n.io/privacy-security/): Overview of n8n's data privacy and security practices.
+- [n8n Embed Configuration](https://docs.n8n.io/embed/configuration/): Comprehensive guide on configuring n8n embed features and settings.
+- [n8n Expressions Guide](https://docs.n8n.io/code/expressions/): Learn to use expressions for dynamic parameter values in n8n.
+- [Choose n8n Options](https://docs.n8n.io/choose-n8n/): Explore n8n's platforms, pricing, and licensing options.
+- [Log Streaming](https://docs.n8n.io/log-streaming/): Stream n8n events to your logging tools for monitoring.
+- [n8n Keyboard Shortcuts](https://docs.n8n.io/keyboard-shortcuts/): Explore n8n keyboard shortcuts for efficient workflow management.
+- [n8n License Key Guide](https://docs.n8n.io/license-key/): Guide to activating n8n license key features effectively.
+- [n8n Learning Path](https://docs.n8n.io/learning-path/): Comprehensive guide to learning and using n8n effectively.
+- [n8n License Key Guide](https://docs.n8n.io/license-key/): Guide to activating n8n license key features effectively.
+- [Custom Variables in n8n](https://docs.n8n.io/code/variables/): Learn to create, edit, and use custom variables in n8n.
+- [Workflow Tags Management](https://docs.n8n.io/workflows/tags/): Learn how to manage and filter workflow tags effectively.
+- [n8n Release Notes](https://docs.n8n.io/release-notes/): Latest updates, features, and bug fixes for n8n software.
+- [n8n Embed Prerequisites](https://docs.n8n.io/embed/prerequisites/): Essential requirements and best practices for n8n Embed setup.
+- [Workflow Components Overview](https://docs.n8n.io/workflows/components/): Explore workflow components like nodes, connections, and sticky notes.
+- [Processing Data with Code](https://docs.n8n.io/data/code/): Learn to process data using custom code snippets.
+- [Splitting Workflows in n8n](https://docs.n8n.io/flow-logic/splitting/): Learn to split workflows using conditional nodes in n8n.
+- [Custom API Operations](https://docs.n8n.io/integrations/custom-operations/): Learn to manage custom API operations and credentials in n8n.
+- [n8n Built-in Methods](https://docs.n8n.io/code/builtin/overview/): Reference for n8n built-in methods and variables usage.
+- [n8n CLI Commands](https://docs.n8n.io/hosting/cli-commands/): Explore n8n CLI commands for managing workflows and credentials.
+- [Code Node Usage](https://docs.n8n.io/code/code-node/): Learn to use the Code node for custom JavaScript and Python.
+- [Update self-hosted n8n](https://docs.n8n.io/hosting/installation/updating/): Guide to updating self-hosted n8n for optimal performance.
+- [Sub-workflows in n8n](https://docs.n8n.io/flow-logic/subworkflows/): Learn to create and manage sub-workflows in n8n.
+- [n8n Installation Guide](https://docs.n8n.io/hosting/installation/npm/): Quickly install and run n8n using npm commands.
+- [Export and Import Workflows](https://docs.n8n.io/workflows/export-import/): Learn how to export and import workflows in n8n.
+- [n8n Built-in Methods](https://docs.n8n.io/code/cookbook/builtin/): Explore n8n's built-in methods and variables with examples.
+- [n8n Workflow Templates](https://docs.n8n.io/embed/workflow-templates/): Explore n8n's workflow templates and embedding options.
+- [Scaling n8n](https://docs.n8n.io/hosting/scaling/overview/): Learn how to scale n8n for optimal performance.
+- [Data Mapping Guide](https://docs.n8n.io/data/data-mapping/): Guidance on data mapping techniques and item linking.
+- [Credentials Library](https://docs.n8n.io/integrations/builtin/credentials/): Step-by-step guide for authenticating nodes in n8n.
+- [Workflow Waiting Logic](https://docs.n8n.io/flow-logic/waiting/): Learn how to pause workflows in n8n effectively.
+- [n8n API Reference](https://docs.n8n.io/api/api-reference/): Comprehensive API reference for managing users, workflows, and credentials.
+- [n8n Level 1 Course](https://docs.n8n.io/courses/level-one/): Learn n8n fundamentals and build workflows effectively.
+- [n8n Cloud Overview](https://docs.n8n.io/manage-cloud/overview/): n8n Cloud offers a hosted solution with no setup needed.
+- [Securing n8n](https://docs.n8n.io/hosting/securing/overview/): Guide to securing your n8n instance with best practices.
+- [n8n Cloud Concurrency](https://docs.n8n.io/manage-cloud/concurrency/): Overview of concurrency limits and management in n8n Cloud.
+- [n8n Level 2 Course](https://docs.n8n.io/courses/level-two/): Learn to automate complex processes with n8n tools.
+- [Query JSON with JMESPath](https://docs.n8n.io/code/cookbook/jmespath/): Learn to query JSON data using JMESPath in n8n.
+- [SAML SSO Configuration](https://docs.n8n.io/user-management/saml/): Guide to configuring SAML SSO for n8n users.
+- [Sustainable Use License](https://docs.n8n.io/sustainable-use-license/): Overview of n8n's Sustainable Use License and its terms.
+- [Contributing to n8n](https://docs.n8n.io/help-community/contributing/): Explore various ways to contribute to n8n community.
+- [Expressions Cookbook](https://docs.n8n.io/code/cookbook/expressions/): Explore examples and recipes for using expressions in n8n.
+- [n8n Workflow Nodes](https://docs.n8n.io/workflows/components/nodes/): Explore n8n nodes for workflow creation and management.
+- [n8n Data Structure](https://docs.n8n.io/data/data-structure/): Overview of n8n data structure and item processing methods.
+- [Connections in Workflows](https://docs.n8n.io/workflows/components/connections/): Learn how to create and delete connections in workflows.
+- [Credential Sharing Guide](https://docs.n8n.io/credentials/credential-sharing/): Learn how to share and manage credentials effectively.
+- [JMESPath Method](https://docs.n8n.io/code/builtin/jmespath/): Learn to use JMESPath method for JSON searches.
+- [Role-Based Access Control](https://docs.n8n.io/user-management/rbac/): Manage user access with role-based control in n8n workflows.
+- [Date and Time with Luxon](https://docs.n8n.io/code/cookbook/luxon/): Learn to manage date and time using Luxon library.
+- [Workflow Management](https://docs.n8n.io/embed/managing-workflows/): Manage workflows in n8n Embed for multiple users efficiently.
+- [Data Pinning Guide](https://docs.n8n.io/data/data-pinning/): Learn how to pin data in n8n workflows effectively.
+- [Debug Past Executions](https://docs.n8n.io/workflows/executions/debug/): Debug and re-run past executions in n8n workflows.
+- [Schema Preview](https://docs.n8n.io/data/schema-preview/): Preview expected schema data for workflow construction.
+- [Data Mocking Techniques](https://docs.n8n.io/data/data-mocking/): Learn data mocking techniques for efficient workflow development.
+- [n8n Help and Support](https://docs.n8n.io/help-community/help/): Get support and help for using n8n effectively.
+- [AI Coding with n8n](https://docs.n8n.io/code/ai-code/): Learn to use AI for coding in n8n workflows.
+- [Binary Data Management](https://docs.n8n.io/data/binary-data/): Learn to manage binary data in n8n workflows effectively.
+- [Looping in n8n](https://docs.n8n.io/flow-logic/looping/): Learn how to effectively use looping in n8n workflows.
+- [n8n Convenience Methods](https://docs.n8n.io/code/builtin/convenience/): Explore n8n's convenience methods for easier expression handling.
+- [White Labelling n8n](https://docs.n8n.io/embed/white-labelling/): Customize n8n's frontend to match your brand identity.
+- [n8n Source Control](https://docs.n8n.io/source-control-environments/): Learn to manage n8n environments with Git source control.
+- [n8n Docker Installation](https://docs.n8n.io/hosting/installation/docker/): Guide to install and run n8n using Docker.
+- [Data Filtering Guide](https://docs.n8n.io/data/data-filtering/): Learn to search and filter data in n8n nodes.
+- [Data Editing in n8n](https://docs.n8n.io/data/data-editing/): Learn how to edit and manage data in n8n workflows.
+- [Merging Data in n8n](https://docs.n8n.io/flow-logic/merging/): Learn how to merge multiple data streams effectively.
+- [Data Transformation Guide](https://docs.n8n.io/data/transforming-data/): Learn how to transform data structures in n8n workflows.
+- [Facebook Lead Ads](https://docs.n8n.io/integrations/builtin/credentials/facebookleadads/): Authenticate Facebook Lead Ads using OAuth2 credentials setup.
+- [Formstack Trigger Credentials](https://docs.n8n.io/integrations/builtin/credentials/formstacktrigger/): Authenticate Formstack Trigger with API or OAuth2 credentials.
+- [Mistral Cloud Credentials](https://docs.n8n.io/integrations/builtin/credentials/mistral/): Authenticate Mistral Cloud API with required credentials setup.
+- [Demio Credentials](https://docs.n8n.io/integrations/builtin/credentials/demio/): Authenticate Demio nodes using API key credentials.
+- [Mautic Credentials Guide](https://docs.n8n.io/integrations/builtin/credentials/mautic/): Learn to authenticate Mautic with n8n using credentials.
+- [PhantomBuster Credentials](https://docs.n8n.io/integrations/builtin/credentials/phantombuster/): Authenticate PhantomBuster nodes using API key credentials.
+- [Cisco Meraki Credentials](https://docs.n8n.io/integrations/builtin/credentials/ciscomeraki/): Authenticate Cisco Meraki API calls using credentials.
+- [Redis Credentials Guide](https://docs.n8n.io/integrations/builtin/credentials/redis/): Learn to authenticate Redis nodes with credentials setup.
+- [KoboToolbox Credentials](https://docs.n8n.io/integrations/builtin/credentials/kobotoolbox/): Authenticate KoboToolbox nodes using API token credentials.
+- [SolarWinds IPAM Credentials](https://docs.n8n.io/integrations/builtin/credentials/solarwindsipam/): Authenticate with SolarWinds IPAM using username and password.
+- [Salesmate Credentials](https://docs.n8n.io/integrations/builtin/credentials/salesmate/): Authenticate Salesmate nodes using API token credentials.
+- [Oura Credentials](https://docs.n8n.io/integrations/builtin/credentials/oura/): Authenticate Oura credentials for n8n integration setup.
+- [Form.io Trigger Credentials](https://docs.n8n.io/integrations/builtin/credentials/formiotrigger/): Authenticate Form.io Trigger credentials using basic auth methods.
