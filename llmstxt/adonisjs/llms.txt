@@ -1,0 +1,90 @@
+# docs.adonisjs.com llms.txt
+
+- [Command Arguments Guide](https://docs.adonisjs.com/guides/ace/arguments): This page explains how to define and use command arguments in AdonisJS Ace commands.
+- [Async Local Storage Guide](https://docs.adonisjs.com/guides/concepts/async-local-storage): Explains how to use AsyncLocalStorage in Node.js for managing asynchronous state during web requests.
+- [AdonisJS Service Providers](https://docs.adonisjs.com/guides/concepts/service-providers): Explains service providers in AdonisJS and their lifecycle methods for modifying application behavior.
+- [AdonisJS Logger Guide](https://docs.adonisjs.com/guides/digging-deeper/logger): Provides guidance on using the AdonisJS logger for logging application events and configurations.
+- [Environment Variables in AdonisJS](https://docs.adonisjs.com/guides/getting-started/environment-variables): Explain how to use environment variables in AdonisJS applications for configuration management.
+- [HTTP Testing Guide](https://docs.adonisjs.com/guides/testing/http-tests): Guide on conducting HTTP tests in AdonisJS applications using the Japa testing framework.
+- [Container Services in AdonisJS](https://docs.adonisjs.com/guides/concepts/container-services): Explains container services in AdonisJS to simplify object creation and improve code structure.
+- [AdonisJS Folder Structure](https://docs.adonisjs.com/guides/getting-started/folder-structure): Explains the folder structure of an AdonisJS application for better organization and management of project files.
+- [Testing with Mocks and Fakes](https://docs.adonisjs.com/guides/testing/mocks-and-fakes): Guide on using mocks and fakes for testing in AdonisJS applications.
+- [AdonisJS Validation Guide](https://docs.adonisjs.com/guides/basics/validation): This page explains data validation techniques in AdonisJS using the VineJS library, covering setup and implementation.
+- [Verifying User Credentials](https://docs.adonisjs.com/guides/authentication/verifying-user-credentials): Guide on verifying user credentials in AdonisJS applications, highlighting secure practices and API usage.
+- [AdonisJS Events Reference](https://docs.adonisjs.com/guides/references/events): This page documents events in the AdonisJS framework, detailing their usage and the associated emitted actions.
+- [AdonisJS Mail Guide](https://docs.adonisjs.com/guides/digging-deeper/mail): Guide to sending emails in AdonisJS using the @adonisjs/mail package and Nodemailer.
+- [AdonisJS Testing Guide](https://docs.adonisjs.com/guides/testing/introduction): Guide for testing in AdonisJS, including setup and usage of test suites.
+- [Exception Handling Guide](https://docs.adonisjs.com/guides/basics/exception-handling): Provides guidance on exception handling in AdonisJS applications.
+- [Securing SSR Applications](https://docs.adonisjs.com/guides/security/securing-ssr-applications): Guide on securing server-rendered applications using AdonisJS with the @adonisjs/shield package.
+- [Assembler Hooks Guide](https://docs.adonisjs.com/guides/concepts/assembler-hooks): Explains how to use assembler hooks in AdonisJS for customization during the assembly lifecycle.
+- [AdonisJS Configuration Guide](https://docs.adonisjs.com/guides/getting-started/configuration): Guide for configuring AdonisJS applications and managing configuration files.
+- [Static File Server Guide](https://docs.adonisjs.com/guides/basics/static-file-server): Guide on using AdonisJS to serve static files through middleware configuration.
+- [AdonisJS Session Management](https://docs.adonisjs.com/guides/basics/session): Guide to managing user sessions in AdonisJS using different storage providers.
+- [AdonisJS Helpers Reference](https://docs.adonisjs.com/guides/references/helpers): Provides a comprehensive reference for AdonisJS helper methods used in application development.
+- [Browser Testing Guide](https://docs.adonisjs.com/guides/browser-tests): Guide to setting up and executing browser tests using Japa and Playwright in AdonisJS applications.
+- [AdonisJS Middleware Guide](https://docs.adonisjs.com/guides/basics/middleware): Explain middleware functions in AdonisJS for handling HTTP requests in a web application.
+- [Basic Authentication Guide](https://docs.adonisjs.com/guides/authentication/basic-auth-guard): Explains the configuration and use of Basic Authentication in AdonisJS applications.
+- [AdonisJS Drive Documentation](https://docs.adonisjs.com/guides/digging-deeper/drive): This page details the installation, configuration, and usage of the AdonisJS Drive package for file management.
+- [CORS in AdonisJS](https://docs.adonisjs.com/guides/security/cors): Guide on implementing and configuring CORS in AdonisJS applications.
+- [Console Testing Guide](https://docs.adonisjs.com/guides/testing/console-tests): This guide explains how to write and run tests for command-line commands in AdonisJS applications.
+- [Social Authentication Guide](https://docs.adonisjs.com/guides/authentication/social-authentication): Guide for implementing social authentication in AdonisJS applications using the @adonisjs/ally package.
+- [AdonisJS Response Guide](https://docs.adonisjs.com/guides/basics/response): Explains how to use the AdonisJS response class to handle HTTP responses.
+- [AdonisJS Routing Guide](https://docs.adonisjs.com/guides/basics/routing): This webpage explains how to define and manage routes in AdonisJS applications.
+- [AdonisJS Installation Guide](https://docs.adonisjs.com/guides/getting-started/installation): Guide users through installing AdonisJS and creating a new application.
+- [Edge Helpers and Tags](https://docs.adonisjs.com/guides/references/edge): A guide detailing the helper functions and tags available in AdonisJS Edge templating engine.
+- [Hashing in AdonisJS](https://docs.adonisjs.com/guides/security/hashing): Guide on configuring and using hashing for user passwords in AdonisJS applications.
+- [TypeScript Build Process](https://docs.adonisjs.com/guides/concepts/typescript-build-process): Guide on compiling TypeScript applications in AdonisJS and managing the build process.
+- [AdonisJS Locks Guide](https://docs.adonisjs.com/guides/digging-deeper/locks): Explains how to implement and configure locks in AdonisJS for resource management and concurrency control.
+- [AdonisJS Cookies Guide](https://docs.adonisjs.com/guides/basics/cookies): This page explains how to use cookies in AdonisJS applications.
+- [AdonisJS Database Overview](https://docs.adonisjs.com/guides/database/introduction): To introduce SQL databases and ORMs within the AdonisJS framework, outlining options and configuration.
+- [Transmit Module Guide](https://docs.adonisjs.com/guides/digging-deeper/transmit): Explain the usage and configuration of the Transmit module for real-time data in AdonisJS applications.
+- [AdonisRC File Configuration](https://docs.adonisjs.com/guides/concepts/adonisrc-file): This page explains the configuration and usage of the AdonisRC file for AdonisJS applications.
+- [AdonisJS Rate Limiting](https://docs.adonisjs.com/guides/security/rate-limiting): This page explains how to implement rate limiting using the AdonisJS framework.
+- [Creating Ace Commands](https://docs.adonisjs.com/guides/ace/creating-commands): Guide to creating custom Ace commands in AdonisJS applications.
+- [Ace Prompts Guide](https://docs.adonisjs.com/guides/ace/prompts): Explains how to use interactive terminal prompts in AdonisJS Ace commands.
+- [AdonisJS Introduction](https://docs.adonisjs.com/guides/preface/introduction): Provides an introduction to AdonisJS, a TypeScript-first web framework for building full-stack applications.
+- [Ace Terminal UI Guide](https://docs.adonisjs.com/guides/ace/terminal-ui): Guide to using the Ace terminal UI for logging and rendering in AdonisJS applications.
+- [Database Testing Guide](https://docs.adonisjs.com/guides/testing/database): Guide on testing database interactions in AdonisJS applications.
+- [AdonisJS Redis Guide](https://docs.adonisjs.com/guides/database/redis): Guide to using Redis in AdonisJS applications with installation and configuration instructions.
+- [Dependency Injection in AdonisJS](https://docs.adonisjs.com/guides/concepts/dependency-injection): Explains dependency injection in AdonisJS and how to implement it using an IoC container.
+- [AdonisJS Documentation](https://docs.adonisjs.com/): Provides documentation and resources for using the AdonisJS web framework.
+- [Hot Module Replacement](https://docs.adonisjs.com/guides/concepts/hot-module-replacement): Explains hot module replacement in the AdonisJS framework for faster JavaScript module reloading.
+- [AdonisJS Controllers Guide](https://docs.adonisjs.com/guides/basics/controllers): Explain how to use controllers in AdonisJS for organizing route handlers and managing HTTP requests.
+- [AdonisJS Deployment Guide](https://docs.adonisjs.com/guides/getting-started/deployment): Guide for deploying AdonisJS applications with various methods and configurations.
+- [AdonisJS Governance Overview](https://docs.adonisjs.com/guides/preface/governance): Outlines the governance structure and roles within the AdonisJS project community.
+- [Custom JWT Auth Guard](https://docs.adonisjs.com/guides/authentication/custom-auth-guard): Guide for implementing a custom JWT authentication guard in AdonisJS.
+- [AdonisJS Vite Integration](https://docs.adonisjs.com/guides/basics/vite): Guide for integrating Vite with AdonisJS for frontend asset management.
+- [AdonisJS FAQs](https://docs.adonisjs.com/guides/preface/faqs): Answer common questions about the AdonisJS framework, its maintenance, licensing, performance, and support options.
+- [AdonisJS Release Notes](https://docs.adonisjs.com/guides/preface/releases): This page lists the notable releases and changes for the AdonisJS framework and its ecosystem packages.
+- [AdonisJS Cache Guide](https://docs.adonisjs.com/guides/digging-deeper/cache): Guide to implementing caching in AdonisJS applications for enhanced performance using @adonisjs/cache.
+- [HTTP Context in AdonisJS](https://docs.adonisjs.com/guides/concepts/http-context): Explains the HTTP context in AdonisJS and how to utilize it in handling requests.
+- [AdonisJS Config Providers](https://docs.adonisjs.com/guides/concepts/config-providers): Explains the use of config providers in AdonisJS for managing application configuration dynamically.
+- [Body Parser Overview](https://docs.adonisjs.com/guides/basics/body-parser): To explain how to configure and use the BodyParser middleware in AdonisJS for parsing various request body formats.
+- [Browser Testing Guide](https://docs.adonisjs.com/guides/testing/browser-tests): Guide to setting up and executing browser tests using Playwright and Japa in AdonisJS applications.
+- [AdonisJS Views Guide](https://docs.adonisjs.com/guides/views-and-templates/introduction): This guide introduces using views and templates in AdonisJS for server-rendered applications.
+- [AdonisJS REPL Guide](https://docs.adonisjs.com/guides/digging-deeper/repl): Explains how to use the AdonisJS application-aware REPL for interactive coding.
+- [Tooling Configuration Guide](https://docs.adonisjs.com/guides/concepts/tooling-config): Guide to configuring TypeScript, Prettier, and ESLint in AdonisJS applications.
+- [Access Tokens Guide](https://docs.adonisjs.com/guides/authentication/access-tokens-guard): Guide for implementing and managing access tokens in AdonisJS authentication.
+- [AdonisJS Application Lifecycle](https://docs.adonisjs.com/guides/concepts/application-lifecycle): This guide explains the AdonisJS application lifecycle and its environment-specific boot and termination processes.
+- [Health Checks Guide](https://docs.adonisjs.com/guides/digging-deeper/health-checks): Guide to implementing health checks in AdonisJS applications for monitoring application status.
+- [AdonisJS Commands Reference](https://docs.adonisjs.com/guides/references/commands): This page lists and explains various commands available in the AdonisJS framework.
+- [Lucid ORM Documentation](https://docs.adonisjs.com/guides/database/lucid): To provide comprehensive documentation for the Lucid ORM in AdonisJS, including installation and usage instructions.
+- [File Uploads Documentation](https://docs.adonisjs.com/guides/basics/file-uploads): Guide to handling file uploads in AdonisJS, including validation and storage methods.
+- [AdonisJS Authentication Guide](https://docs.adonisjs.com/guides/authentication/introduction): Guide for implementing authentication in AdonisJS applications using various guards and providers.
+- [Internationalization and Localization](https://docs.adonisjs.com/guides/digging-deeper/i18n): Guide on implementing internationalization and localization in AdonisJS applications.
+- [Session Guard Implementation](https://docs.adonisjs.com/guides/authentication/session-guard): This page details the implementation and configuration of the session guard for user authentication in AdonisJS.
+- [Ace Framework Introduction](https://docs.adonisjs.com/guides/ace/introduction): To introduce and explain the Ace command line framework for AdonisJS.
+- [AdonisJS Exceptions Reference](https://docs.adonisjs.com/guides/references/exceptions): Lists and explains exceptions in the AdonisJS framework and how to handle them.
+- [AdonisJS Authorization Guide](https://docs.adonisjs.com/guides/security/authorization): Guide on implementing authorization checks using the AdonisJS Bouncer package.
+- [Contributing to AdonisJS](https://docs.adonisjs.com/guides/preface/contribution-guide): Guide for contributing to AdonisJS repositories, detailing methods and best practices.
+- [EdgeJS Documentation](https://docs.adonisjs.com/guides/views-and-templates/edgejs): This page offers documentation for the EdgeJS template engine used in AdonisJS applications.
+- [AdonisJS Application Guide](https://docs.adonisjs.com/guides/concepts/application): This page explains the application class and its various functionalities in AdonisJS.
+- [AdonisJS Request Handling](https://docs.adonisjs.com/guides/basics/request): Explain how to handle HTTP requests in AdonisJS applications.
+- [AdonisJS Encryption Guide](https://docs.adonisjs.com/guides/security/encryption): Describes how to use AdonisJS encryption services for securing application data.
+- [AdonisJS Scaffolding Guide](https://docs.adonisjs.com/guides/concepts/scaffolding): This page explains how to use scaffolding and codemods in AdonisJS for generating and modifying source files.
+- [Inertia with AdonisJS](https://docs.adonisjs.com/guides/views-and-templates/inertia): Guide for using Inertia with AdonisJS to create single-page applications.
+- [AdonisJS HTTP Overview](https://docs.adonisjs.com/guides/concepts/http-overview): Explains the HTTP functionality in AdonisJS framework for building web applications.
+- [AdonisJS Command Flags](https://docs.adonisjs.com/guides/ace/flags): Explains how to define and use command flags in AdonisJS Ace.
+- [AdonisJS Debugging Guide](https://docs.adonisjs.com/guides/basics/debugging): Guide for debugging AdonisJS applications using various methods, including VSCode and logging techniques.
+- [Extending AdonisJS Framework](https://docs.adonisjs.com/guides/concepts/extending-adonisjs): Guide on how to extend AdonisJS framework with custom APIs and functionalities.
+- [AdonisJS Event Emitter Guide](https://docs.adonisjs.com/guides/digging-deeper/emitter): Explains the usage and features of the Event Emitter in AdonisJS.
