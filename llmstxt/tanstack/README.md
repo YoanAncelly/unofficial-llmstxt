@@ -1,0 +1,1 @@
+allowed-domain: tanstack.com
