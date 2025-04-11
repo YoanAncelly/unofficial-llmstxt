@@ -1,0 +1,57 @@
+# Get Started
+
+## Overview
+This documentation provides a comprehensive guide to getting started with React Hook Form, a library for managing forms in React applications. It covers various aspects including API usage, advanced features, and integration with other libraries.
+
+## Getting Started
+- [Get Started](https://react-hook-form.com/get-started): An introductory guide to setting up and using React Hook Form in your projects.
+
+## API Documentation
+- [API](https://react-hook-form.com/docs): Detailed documentation of the API provided by React Hook Form, including methods and properties.
+- [API.V5](https://legacy.react-hook-form.com/v5/api): The version 5 API documentation, outlining the changes and features available in this version.
+
+## Form Management
+- [useForm](https://legacy.react-hook-form.com/api/useform): A hook that provides methods to manage form state and validation.
+- [useFormState](https://www.react-hook-form.com/api/useformstate/): A hook that allows you to access the form state.
+- [useFieldArray](https://www.react-hook-form.com/api/usefieldarray/): A hook for managing dynamic fields in forms.
+- [useController](https://legacy.react-hook-form.com/api/usecontroller): A hook that integrates controlled components with React Hook Form.
+
+## Validation
+- [Apply validation](https://react-hook-form.com/get-started#Applyvalidation): Guidelines on how to implement validation in your forms.
+- [Schema Validation](https://react-hook-form.com/get-started#SchemaValidation): Information on using schema validation libraries like Yup, Zod, Superstruct, and Joi for form validation.
+
+## Integration
+- [Integrating an existing form](https://react-hook-form.com/get-started#Integratinganexistingform): Steps to integrate React Hook Form with an existing form setup.
+- [Integrating with UI libraries](https://react-hook-form.com/get-started#IntegratingwithUIlibraries): Instructions for using React Hook Form with popular UI libraries such as AntD, MUI, and React-Select.
+- [Integrating Controlled Inputs](https://react-hook-form.com/get-started#IntegratingControlledInputs): How to manage controlled inputs with React Hook Form.
+- [Integrating with global state](https://react-hook-form.com/get-started#Integratingwithglobalstate): Techniques for integrating form state with global state management solutions.
+- [Integrating with services](https://react-hook-form.com/get-started#Integratingwithservices): Best practices for integrating forms with external services.
+
+## Error Handling
+- [Handle errors](https://react-hook-form.com/get-started#Handleerrors): Strategies for managing and displaying form errors effectively.
+
+## Advanced Usage
+- [Advanced](https://react-hook-form.com/advanced-usage): A section dedicated to advanced features and techniques for experienced users.
+- [DevTools](https://legacy.react-hook-form.com/dev-tools): Tools and utilities for debugging and enhancing your form development experience.
+
+## Resources
+- [Articles](https://react-hook-form.com/resources/articles): A collection of articles related to React Hook Form and form management.
+- [Videos](https://react-hook-form.com/resources/videos): Video tutorials and walkthroughs for visual learners.
+- [Newsletters](https://react-hook-form.com/resources/newsletters): Subscribe to newsletters for updates and tips on using React Hook Form.
+- [FAQs](https://react-hook-form.com/faqs): Frequently asked questions regarding React Hook Form.
+- [TS Support](https://legacy.react-hook-form.com/ts): Information on TypeScript support within React Hook Form.
+
+## Form Builder
+- [Form Builder](https://react-hook-form.com/form-builder): A tool for visually creating forms using React Hook Form.
+- [BEEKAI Form Builder](https://www.beekai.com/features/form-builder): A specific implementation of a form builder using React Hook Form.
+
+## CodeSandbox Examples
+- [CodeSandbox TS](https://codesandbox.io/s/react-hook-form-apply-validation-ts-forked-nmbyh): TypeScript examples for using React Hook Form.
+- [CodeSandbox JS](https://codesandbox.io/s/react-hook-form-apply-validation-q5m00): JavaScript examples for using React Hook Form.
+
+## Additional Information
+- [Design and philosophy](https://react-hook-form.com/get-started#Designandphilosophy): Insights into the design principles and philosophy behind React Hook Form.
+- [About us](https://react-hook-form.com/about-us): Information about the team and mission behind React Hook Form.
+- [Media](https://www.react-hook-form.com/media/): Media resources related to React Hook Form.
+
+This structured summary provides a clear and organized overview of the documentation, making it easier for users to navigate and find the information they need.

@@ -1,0 +1,1 @@
+allowed-domains: https://react-hook-form.com
