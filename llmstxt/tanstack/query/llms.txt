@@ -1,0 +1,72 @@
+# Overview | TanStack Query React Docs
+
+TanStack Query (formerly known as React Query) is often described as the missing data-fetching library for web applications, but in more technical terms, it makes fetching, caching, synchronizing, and managing server state in React applications easier and more efficient.
+
+## Getting Started
+
+- [Home](https://tanstack.com/query/latest): The main page for TanStack Query documentation, providing an overview and links to various resources.
+- [Installationreact](https://tanstack.com/query/latest/docs/framework/react/installation): Instructions on how to install TanStack Query in your React application.
+- [Quick Startreact](https://tanstack.com/query/latest/docs/framework/react/quick-start): A guide to quickly get started with TanStack Query, including basic usage examples.
+
+## Core Concepts
+
+- [Overviewreact](https://tanstack.com/query/latest/docs/framework/react/overview): A detailed explanation of the core concepts and features of TanStack Query.
+- [Queriesreact](https://tanstack.com/query/latest/docs/framework/react/guides/queries): Information on how to create and manage queries in TanStack Query.
+- [Query Keysreact](https://tanstack.com/query/latest/docs/framework/react/guides/query-keys): An explanation of how to use query keys to uniquely identify queries.
+- [Query Functionsreact](https://tanstack.com/query/latest/docs/framework/react/guides/query-functions): Details on defining query functions to fetch data.
+- [Query Optionsreact](https://tanstack.com/query/latest/docs/framework/react/guides/query-options): Options available for configuring queries, including caching and refetching behavior.
+
+## Advanced Features
+
+- [Network Modereact](https://tanstack.com/query/latest/docs/framework/react/guides/network-mode): Managing network states and how TanStack Query handles offline scenarios.
+- [Parallel Queriesreact](https://tanstack.com/query/latest/docs/framework/react/guides/parallel-queries): How to execute multiple queries in parallel.
+- [Dependent Queriesreact](https://tanstack.com/query/latest/docs/framework/react/guides/dependent-queries): Managing queries that depend on the results of other queries.
+- [Background Fetching Indicatorsreact](https://tanstack.com/query/latest/docs/framework/react/guides/background-fetching-indicators): Indicators for background fetching to enhance user experience.
+- [Window Focus Refetchingreact](https://tanstack.com/query/latest/docs/framework/react/guides/window-focus-refetching): Automatically refetching data when the window regains focus.
+
+## Mutations
+
+- [Mutationsreact](https://tanstack.com/query/latest/docs/framework/react/guides/mutations): Overview of how to perform mutations in TanStack Query.
+- [Query Invalidationreact](https://tanstack.com/query/latest/docs/framework/react/guides/query-invalidation): Techniques for invalidating queries after mutations.
+- [Invalidation from Mutationsreact](https://tanstack.com/query/latest/docs/framework/react/guides/invalidations-from-mutations): How to invalidate queries based on mutation results.
+- [Optimistic Updatesreact](https://tanstack.com/query/latest/docs/framework/react/guides/optimistic-updates): Implementing optimistic updates to improve UI responsiveness.
+
+## Performance Optimization
+
+- [Cachingreact](https://tanstack.com/query/latest/docs/framework/react/guides/caching): Strategies for caching data to improve performance.
+- [Render Optimizationsreact](https://tanstack.com/query/latest/docs/framework/react/guides/render-optimizations): Techniques to optimize rendering in React applications using TanStack Query.
+- [Performance & Request Waterfallsreact](https://tanstack.com/query/latest/docs/framework/react/guides/request-waterfalls): Analyzing performance and understanding request waterfalls.
+
+## Integration and Compatibility
+
+- [TypeScriptreact](https://tanstack.com/query/latest/docs/framework/react/typescript): Using TanStack Query with TypeScript for type safety.
+- [GraphQLreact](https://tanstack.com/query/latest/docs/framework/react/graphql): Integrating TanStack Query with GraphQL APIs.
+- [React Nativereact](https://tanstack.com/query/latest/docs/framework/react/react-native): Using TanStack Query in React Native applications.
+- [Server Rendering & Hydrationreact](https://tanstack.com/query/latest/docs/framework/react/guides/ssr): Techniques for server-side rendering and hydration with TanStack Query.
+
+## Tools and Utilities
+
+- [Devtoolsreact](https://tanstack.com/query/latest/docs/framework/react/devtools): Tools for debugging and inspecting queries in your application.
+- [QueryClientProviderreact](https://tanstack.com/query/latest/docs/framework/react/reference/QueryClientProvider): Context provider for managing the query client in your application.
+- [useQueryreact](https://tanstack.com/query/latest/docs/framework/react/reference/useQuery): Hook for fetching data using TanStack Query.
+- [useMutationreact](https://tanstack.com/query/latest/docs/framework/react/reference/useMutation): Hook for performing mutations.
+
+## Community and Resources
+
+- [GitHub](https://github.com/tanstack/query): The official GitHub repository for TanStack Query, where you can find the source code and contribute.
+- [Discord](https://tlinz.com/discord): Join the community on Discord for support and discussions.
+- [Videos & Talksreact](https://tanstack.com/query/latest/docs/framework/react/videos): A collection of videos and talks related to TanStack Query.
+
+## Migration Guides
+
+- [Migrating to v3react](https://tanstack.com/query/latest/docs/framework/react/guides/migrating-to-react-query-3): Guide for migrating from earlier versions to v3.
+- [Migrating to v4react](https://tanstack.com/query/latest/docs/framework/react/guides/migrating-to-react-query-4): Instructions for upgrading to v4.
+- [Migrating to v5react](https://tanstack.com/query/latest/docs/framework/react/guides/migrating-to-v5): Steps to transition to the latest version, v5.
+
+## Additional Resources
+
+- [Blog](https://tanstack.com/blog): The official blog for updates and articles related to TanStack Query.
+- [TanStack Query Course](https://query.gg/?s=tanstack): A course designed to teach you how to use TanStack Query effectively.
+- [Open in StackBlitz](https://stackblitz.com/github/TanStack/query/tree/main/examples/react/simple): An interactive environment to experiment with TanStack Query code.
+
+This structured summary provides a comprehensive overview of the TanStack Query documentation, ensuring that all relevant links and descriptions are included for easy reference.
