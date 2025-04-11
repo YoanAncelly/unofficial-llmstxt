@@ -1,0 +1,1 @@
+allowed-domains: docs.n8n.io
