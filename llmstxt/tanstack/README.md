@@ -1,1 +1,1 @@
-allowed-domain: tanstack.com
+allowed-domains: https://tanstack.com

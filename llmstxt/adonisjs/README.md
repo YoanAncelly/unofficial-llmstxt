@@ -1,1 +1,1 @@
-allowed-domains: docs.adonisjs.com
+allowed-domains: https://docs.adonisjs.com

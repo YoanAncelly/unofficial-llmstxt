@@ -1,1 +1,1 @@
-allowed-domains: docs.n8n.io
+allowed-domains: https://docs.n8n.io
