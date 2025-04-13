@@ -1,0 +1,82 @@
+# Docs & Guides • Lemon Squeezy
+
+Payments, tax & subscriptions for software companies
+
+## Getting Started
+
+- [Getting Started](https://docs.lemonsqueezy.com/help/getting-started/getting-paid): A comprehensive introduction to using Lemon Squeezy, covering the initial setup and essential features.
+- [Activate your store](https://docs.lemonsqueezy.com/help/getting-started/activate-your-store): Instructions on how to activate your Lemon Squeezy store for selling products.
+- [Verify your identity](https://docs.lemonsqueezy.com/help/getting-started/verify-your-identity): Steps to verify your identity as part of the onboarding process.
+- [Two-factor authentication (2FA)](https://docs.lemonsqueezy.com/help/getting-started/two-factor-authentication): Guide on enabling 2FA for enhanced security on your account.
+- [Test mode](https://docs.lemonsqueezy.com/help/getting-started/test-mode): Information on how to use test mode for simulating transactions without real payments.
+
+## Documentation and Guides
+
+- [Documentation](https://docs.lemonsqueezy.com/help): The main resource for all technical documentation related to Lemon Squeezy.
+- [API ReferenceAPI](https://docs.lemonsqueezy.com/api): Detailed reference for the Lemon Squeezy API, including endpoints and usage.
+- [Guides](https://docs.lemonsqueezy.com/guides): A collection of guides to help users navigate various features and functionalities of Lemon Squeezy.
+- [Developer Guide](https://docs.lemonsqueezy.com/guides/developer-guide/taking-payments): A guide for developers on integrating and using Lemon Squeezy for payment processing.
+
+## Payments and Fees
+
+- [Fees](https://docs.lemonsqueezy.com/help/getting-started/fees): Overview of the fees associated with using Lemon Squeezy for transactions.
+- [Payments](https://docs.lemonsqueezy.com/help/payments): Detailed information on how payments are processed through Lemon Squeezy.
+- [Payment methods](https://docs.lemonsqueezy.com/help/checkout/payment-methods): A list of supported payment methods for transactions.
+- [PayPal subscriptions](https://docs.lemonsqueezy.com/help/orders/paypal-subscriptions): Instructions on setting up subscriptions using PayPal.
+
+## Products and Subscriptions
+
+- [Products](https://docs.lemonsqueezy.com/help/products): Information on managing products within your Lemon Squeezy store.
+- [Adding products](https://docs.lemonsqueezy.com/help/products/adding-products): Step-by-step guide on how to add new products to your store.
+- [Subscriptions](https://docs.lemonsqueezy.com/help/products/subscriptions): Overview of subscription services offered by Lemon Squeezy.
+- [Usage-based billing](https://docs.lemonsqueezy.com/help/products/usage-based-billing): Explanation of how to implement usage-based billing for your products.
+
+## Customer Management
+
+- [Customer Portal](https://docs.lemonsqueezy.com/help/online-store/customer-portal): Guide on how customers can manage their subscriptions and orders through the portal.
+- [Managing file versions](https://docs.lemonsqueezy.com/help/products/managing-file-versions): Instructions on how to manage different versions of files associated with products.
+- [Abandoned cart emails](https://docs.lemonsqueezy.com/help/online-store/abandoned-cart-emails): Information on how to set up and manage abandoned cart email notifications.
+
+## Migration
+
+- [Migrate to Lemon Squeezy](https://docs.lemonsqueezy.com/help/getting-started/migrate-to-lemon-squeezy): A guide for users looking to transition to Lemon Squeezy from other platforms.
+- [Migrating from Gumroad](https://docs.lemonsqueezy.com/help/migrating/migrating-from-gumroad): Specific instructions for users migrating from Gumroad.
+- [Migrating from Stripe](https://docs.lemonsqueezy.com/help/migrating/migrating-from-stripe): Steps for migrating from Stripe to Lemon Squeezy.
+- [Migrating from Paddle](https://docs.lemonsqueezy.com/help/migrating/migrating-from-paddle): Guidance for users moving from Paddle to Lemon Squeezy.
+
+## Tax and Compliance
+
+- [What is Merchant of Record?](https://docs.lemonsqueezy.com/help/payments/merchant-of-record): Explanation of the Merchant of Record concept and its implications for users.
+- [Tax Forms](https://docs.lemonsqueezy.com/help/tax-forms): Information on required tax forms for compliance.
+- [W-9 form](https://docs.lemonsqueezy.com/help/tax-forms/w-9-form): Details on the W-9 form and its usage.
+- [W-8 forms](https://docs.lemonsqueezy.com/help/tax-forms/w-8-forms): Information on W-8 forms for international users.
+
+## Integrations and Webhooks
+
+- [Webhooks](https://docs.lemonsqueezy.com/help/webhooks): Overview of webhooks and how to use them with Lemon Squeezy.
+- [Webhook requests](https://docs.lemonsqueezy.com/help/webhooks/webhook-requests): Details on how to configure webhook requests.
+- [Signing requests](https://docs.lemonsqueezy.com/help/webhooks/signing-requests): Instructions on how to sign webhook requests for security.
+- [Event types](https://docs.lemonsqueezy.com/help/webhooks/event-types): List of event types that can trigger webhooks.
+
+## Affiliates
+
+- [Affiliates for Merchants](https://docs.lemonsqueezy.com/help/affiliates-for-merchants): Guide for merchants on how to set up and manage affiliate programs.
+- [Getting started](https://docs.lemonsqueezy.com/help/affiliates-for-merchants/getting-started): Introduction to the affiliate program and how to begin.
+- [Adding affiliates](https://docs.lemonsqueezy.com/help/affiliates-for-merchants/adding-affiliates): Steps to add affiliates to your program.
+- [Managing affiliates](https://docs.lemonsqueezy.com/help/affiliates-for-merchants/managing-affiliates-and-referrals): Instructions on how to manage and track affiliate performance.
+
+## Email Marketing
+
+- [Email](https://docs.lemonsqueezy.com/help/email): Overview of email marketing features available within Lemon Squeezy.
+- [Getting approved](https://docs.lemonsqueezy.com/help/email/approval): Steps to get your email marketing campaigns approved.
+- [Broadcasts](https://docs.lemonsqueezy.com/help/email/broadcasts): Information on sending broadcast emails to your subscribers.
+- [Reports](https://docs.lemonsqueezy.com/help/email/reports): Overview of reporting features for email campaigns.
+
+## Additional Resources
+
+- [Help Center](https://www.lemonsqueezy.com/help): Access to the Lemon Squeezy Help Center for additional support and resources.
+- [Suggest a Feature](https://www.lemonsqueezy.com/suggest-feature): A platform for users to suggest new features or improvements.
+- [Changelog](https://www.lemonsqueezy.com/changelog): Updates and changes made to the Lemon Squeezy platform.
+- [Roadmap](https://www.lemonsqueezy.com/roadmap): Future plans and features being developed for Lemon Squeezy.
+
+This structured summary provides a comprehensive overview of the documentation available for Lemon Squeezy, ensuring users can easily navigate and find the information they need.
